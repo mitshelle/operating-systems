@@ -1,2 +1,2 @@
 # operating-systems
-xv6 os 
+xv6 Operating System Completed in CS 370 - Operating Systems
